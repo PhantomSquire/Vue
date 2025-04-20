@@ -1,7 +1,7 @@
 <template>
 
   <nav>
-    <p>HOME</p>
+    <a href="/">HOME</a>
   </nav>
   
 </template>

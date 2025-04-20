@@ -5,6 +5,5 @@
 <template>
   
   <p>App.vue</p>
-  <HelloWorld />
 
 </template>
